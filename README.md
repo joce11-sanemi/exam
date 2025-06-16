@@ -17,7 +17,7 @@ int main(){
     } else if (oper == '/'){
         printf("\n The result is: %f", num1 / num2);
     }
-    printf("\n Thanks for using our program :)";
+    printf("\n Thanks for using our program :)");
     return 0;
     
 }# exam
